@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114862653354",
+    "project_id": "tour4you-ef736",
+    "storage_bucket": "tour4you-ef736.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114862653354:android:a5aac24593c41a39e635d3",
+        "android_client_info": {
+          "package_name": "com.example.tour4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114862653354-uhooleqp6610fc9413bhrr5haq1maiqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGqjwJXSqBlnyV6I1O1xwWkiRKvm_t_Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114862653354-uhooleqp6610fc9413bhrr5haq1maiqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
